@@ -1,0 +1,26 @@
+{
+  "name": "restify-create-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdGui1/restify-create-app.git"
+  },
+  "keywords": [
+    "restify",
+    "create",
+    "app",
+    "router",
+    "error"
+  ],
+  "author": "Guilherme Borges Arimatea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerdGui1/restify-create-app/issues"
+  },
+  "homepage": "https://github.com/NerdGui1/restify-create-app#readme"
+}
