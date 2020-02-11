@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "This is a easy CLI to install all the needed dependencies to build a MV* RESTfull API with RestifyJs",
   "main": "index.js",
+  "preferGlobal": true,
   "scripts": {
-    "dev": "index.js",
-    "start": "npm link"
+    "dev": "index.js"
   },
   "bin": {
     "restify-create-app": "index.js"
