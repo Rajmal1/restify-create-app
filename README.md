@@ -20,6 +20,7 @@ The dependencies that will be instaled are:
 - restify-router
 - restify-erros
 <br>
+<br>
 All of then could be found on NPM website.
 ```bash
 restify-create-app new
