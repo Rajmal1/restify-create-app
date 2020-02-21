@@ -18,7 +18,7 @@ The dependencies that will be instaled are:
 <br>
 - restify
 - restify-router
-- restify-erros
+- restify-errors
 <br>
 <br>
 All of then could be found on NPM website.

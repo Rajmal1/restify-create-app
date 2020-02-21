@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/NerdGui1/restify-create-app#readme",
   "dependencies": {
+    "progress": "^2.0.3",
     "shelljs": "^0.8.3",
     "yargs": "^15.1.0"
   },
