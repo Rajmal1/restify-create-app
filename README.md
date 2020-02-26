@@ -12,7 +12,6 @@ npm install restify-create-app --save-dev -g
 
 ## Usage
 
-Run the command to install all dependencies and create a HTTP server.
 <br>
 The dependencies that will be instaled are:
 <br>
@@ -22,6 +21,9 @@ The dependencies that will be instaled are:
 <br>
 <br>
 All of then could be found on NPM website.
+<br>
+Run the command to install all dependencies and create a HTTP server.
+<br>
 ```bash
 restify-create-app new
 ```
