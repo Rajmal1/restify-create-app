@@ -1,6 +1,6 @@
 {
   "name": "restify-create-app",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "This is a easy CLI to install all the needed dependencies to build a MV* RESTfull API with RestifyJs",
   "main": "index.js",
   "preferGlobal": true,
@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/NerdGui1/restify-create-app#readme",
   "dependencies": {
+    "progress": "^2.0.3",
     "shelljs": "^0.8.3",
     "yargs": "^15.1.0"
   },

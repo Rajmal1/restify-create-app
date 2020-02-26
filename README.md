@@ -7,13 +7,21 @@ restify-create-app is a simple tool builded to help RestifyJs developers on crea
 Use the package manager [npm](https://www.npmjs.com/) to install restify-create-app.
 
 ```bash
-npm install restify-create-app -g
+npm install restify-create-app --save-dev -g
 ```
 
 ## Usage
 
 Run the command to install all dependencies and create a HTTP server.
-
+<br>
+The dependencies that will be instaled are:
+<br>
+- [restify](http://restify.com/)
+- [restify-router](https://www.npmjs.com/package/restify-router)
+- [restify-errors](https://www.npmjs.com/package/restify-errors)
+<br>
+<br>
+All of then could be found on NPM website.
 ```bash
 restify-create-app new
 ```
