@@ -1,6 +1,6 @@
 {
   "name": "restify-create-app",
-  "version": "2.0.0",
+  "version": "2.1.2",
   "description": "This is a easy CLI to install all the needed dependencies to build a MV* RESTfull API with RestifyJs",
   "main": "index.js",
   "preferGlobal": true,

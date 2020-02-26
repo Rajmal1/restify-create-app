@@ -22,6 +22,7 @@ The dependencies that will be instaled are:
 <br>
 <br>
 All of then could be found on NPM website.
+
 ```bash
 restify-create-app new
 ```
